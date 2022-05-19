@@ -1,0 +1,5 @@
+# Raiz de archivos en mac
+.DS_store
+
+# Variables de entorno
+.env
